@@ -3,12 +3,12 @@ entries:
   datascientest:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2023-11-08T18:12:49.514554188+01:00"
+    created: "2023-11-08T19:51:01.506890551+01:00"
     description: A Helm chart for Kubernetes
     digest: c74114cef6c5829e354cefe4e4c5436c6272f27acd4be7407b5d9868211079ce
     name: datascientest
     type: application
     urls:
-    - git@github.com:farlow/chart-k8s.git/datascientest-0.1.0.tgz
+    - https://farlow.github.io/chart-k8s/datascientest-0.1.0.tgz
     version: 0.1.0
-generated: "2023-11-08T18:12:49.514202872+01:00"
+generated: "2023-11-08T19:51:01.506511323+01:00"
